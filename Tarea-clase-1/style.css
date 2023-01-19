@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+
+
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    border: 2px solid;
+    
+}
+
+
+
+nav ul li{
+    display: inline;
+    
+    
+    
+}
